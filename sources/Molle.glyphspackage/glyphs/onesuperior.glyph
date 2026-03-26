@@ -1,0 +1,46 @@
+{
+glyphname = onesuperior;
+kernLeft = KO_onesuperior;
+kernRight = KO_onesuperior;
+layers = (
+{
+layerId = m001;
+shapes = (
+{
+closed = 1;
+nodes = (
+(605,1142,o),
+(985,1475,o),
+(985,1589,cs),
+(985,1618,o),
+(940,1664,o),
+(910,1673,c),
+(753,1572,o),
+(405,1466,o),
+(339,1445,c),
+(348,1394,o),
+(379,1332,o),
+(415,1332,cs),
+(456,1332,o),
+(700,1438,o),
+(795,1505,c),
+(734,1394,o),
+(304,1073,o),
+(304,896,cs),
+(304,761,o),
+(458,728,o),
+(597,741,c)
+);
+}
+);
+width = 784;
+}
+);
+unicode = 185;
+userData = {
+KernOnSpecialSpacing = {
+L = superiors;
+R = superiors;
+};
+};
+}

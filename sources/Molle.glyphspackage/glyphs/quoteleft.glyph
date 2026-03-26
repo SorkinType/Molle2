@@ -1,0 +1,43 @@
+{
+glyphname = quoteleft;
+kernLeft = KO_quoteleft;
+kernRight = KO_quoteleft;
+layers = (
+{
+layerId = m001;
+shapes = (
+{
+closed = 1;
+nodes = (
+(889,1450,o),
+(850,1472,o),
+(837,1472,cs),
+(734,1472,o),
+(475,1271,o),
+(475,1094,cs),
+(475,1022,o),
+(530,975,o),
+(603,975,cs),
+(694,975,o),
+(758,1042,o),
+(758,1119,cs),
+(758,1149,o),
+(745,1182,o),
+(724,1203,c),
+(736,1261,o),
+(845,1384,o),
+(894,1433,c)
+);
+}
+);
+width = 781;
+}
+);
+unicode = 8216;
+userData = {
+KernOnSpecialSpacing = {
+L = quotes;
+R = quotes;
+};
+};
+}

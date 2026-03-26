@@ -1,0 +1,21 @@
+{
+glyphname = igrave;
+kernLeft = KO_igrave;
+kernRight = KO_a;
+layers = (
+{
+layerId = m001;
+shapes = (
+{
+ref = dotlessi;
+},
+{
+pos = (-209,0);
+ref = grave;
+}
+);
+width = 670;
+}
+);
+unicode = 236;
+}

@@ -1,0 +1,36 @@
+{
+glyphname = parenright;
+kernLeft = KO_parenright;
+kernRight = KO_parenright;
+layers = (
+{
+layerId = m001;
+shapes = (
+{
+closed = 1;
+nodes = (
+(18,-158,o),
+(89,-293,o),
+(181,-293,cs),
+(722,-293,o),
+(1219,1029,o),
+(980,1555,cs),
+(964,1590,o),
+(901,1580,o),
+(864,1561,c),
+(1056,1080,o),
+(552,0,o),
+(15,-116,c)
+);
+}
+);
+width = 1167;
+}
+);
+unicode = 41;
+userData = {
+KernOnSpecialSpacing = {
+L = parenthesis;
+};
+};
+}

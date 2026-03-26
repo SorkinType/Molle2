@@ -1,0 +1,21 @@
+{
+glyphname = Ograve;
+kernLeft = KO_O;
+kernRight = KO_Oacute;
+layers = (
+{
+layerId = m001;
+shapes = (
+{
+ref = O;
+},
+{
+pos = (62,0);
+ref = grave.cap;
+}
+);
+width = 1588;
+}
+);
+unicode = 210;
+}

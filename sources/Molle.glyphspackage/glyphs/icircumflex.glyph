@@ -1,0 +1,21 @@
+{
+glyphname = icircumflex;
+kernLeft = KO_icircumflex;
+kernRight = KO_iacute;
+layers = (
+{
+layerId = m001;
+shapes = (
+{
+ref = dotlessi;
+},
+{
+pos = (-224,0);
+ref = circumflex;
+}
+);
+width = 670;
+}
+);
+unicode = 238;
+}

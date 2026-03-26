@@ -1,0 +1,21 @@
+{
+glyphname = yacute;
+kernLeft = KO_y;
+kernRight = KO_c;
+layers = (
+{
+layerId = m001;
+shapes = (
+{
+ref = y;
+},
+{
+pos = (227,0);
+ref = acute;
+}
+);
+width = 1059;
+}
+);
+unicode = 253;
+}

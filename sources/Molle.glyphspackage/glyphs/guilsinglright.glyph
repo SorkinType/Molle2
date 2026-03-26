@@ -1,0 +1,43 @@
+{
+glyphname = guilsinglright;
+kernLeft = KO_guilsinglright;
+kernRight = KO_guilsinglright;
+layers = (
+{
+layerId = m001;
+shapes = (
+{
+closed = 1;
+nodes = (
+(339,239,o),
+(416,96,o),
+(458,96,cs),
+(596,96,o),
+(946,297,o),
+(946,478,cs),
+(946,619,o),
+(672,851,o),
+(575,851,cs),
+(552,851,o),
+(498,793,o),
+(492,750,c),
+(492,750,o),
+(676,622,o),
+(676,549,cs),
+(676,455,o),
+(377,327,o),
+(315,307,c)
+);
+}
+);
+width = 1085;
+}
+);
+unicode = 8250;
+userData = {
+KernOnSpecialSpacing = {
+L = quotes;
+R = quotes;
+};
+};
+}

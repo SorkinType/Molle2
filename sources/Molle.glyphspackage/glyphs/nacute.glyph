@@ -1,0 +1,22 @@
+{
+glyphname = nacute;
+kernLeft = KO_ntilde;
+kernRight = KO_ntilde;
+layers = (
+{
+layerId = m001;
+shapes = (
+{
+pos = (-40,0);
+ref = n;
+},
+{
+pos = (239,0);
+ref = acute;
+}
+);
+width = 1182;
+}
+);
+unicode = 324;
+}

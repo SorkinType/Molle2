@@ -1,0 +1,35 @@
+{
+glyphname = bar;
+layers = (
+{
+layerId = m001;
+shapes = (
+{
+closed = 1;
+nodes = (
+(218,-154,o),
+(332,-208,o),
+(373,-208,cs),
+(504,-208,o),
+(1108,1385,o),
+(1108,1567,cs),
+(1108,1585,o),
+(1050,1606,o),
+(1026,1613,c),
+(982,1410,o),
+(361,24,o),
+(194,-121,c)
+);
+}
+);
+width = 1016;
+}
+);
+unicode = 124;
+userData = {
+KernOnSpecialSpacing = {
+L = NoKerning;
+R = NoKerning;
+};
+};
+}

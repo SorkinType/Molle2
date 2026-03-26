@@ -1,0 +1,49 @@
+{
+glyphname = asciitilde;
+kernLeft = KO_asciitilde;
+kernRight = KO_asciitilde;
+layers = (
+{
+layerId = m001;
+shapes = (
+{
+closed = 1;
+nodes = (
+(251,452,o),
+(373,575,o),
+(470,575,cs),
+(587,575,o),
+(612,390,o),
+(789,390,cs),
+(938,390,o),
+(1089,558,o),
+(1089,660,cs),
+(1089,687,o),
+(1010,729,o),
+(1010,729,c),
+(1010,729,o),
+(942,651,o),
+(872,651,cs),
+(749,651,o),
+(691,793,o),
+(516,793,cs),
+(372,793,o),
+(234,672,o),
+(176,546,cs),
+(165,522,o),
+(251,452,o),
+(251,452,c)
+);
+}
+);
+width = 1200;
+}
+);
+unicode = 126;
+userData = {
+KernOnSpecialSpacing = {
+L = math;
+R = math;
+};
+};
+}

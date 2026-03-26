@@ -1,0 +1,21 @@
+{
+glyphname = idieresis;
+kernLeft = KO_i;
+kernRight = KO_iacute;
+layers = (
+{
+layerId = m001;
+shapes = (
+{
+ref = dotlessi;
+},
+{
+pos = (-265,0);
+ref = dieresis;
+}
+);
+width = 670;
+}
+);
+unicode = 239;
+}

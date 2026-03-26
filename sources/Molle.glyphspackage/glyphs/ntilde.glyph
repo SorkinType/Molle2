@@ -1,0 +1,22 @@
+{
+glyphname = ntilde;
+kernLeft = KO_ntilde;
+kernRight = KO_ntilde;
+layers = (
+{
+layerId = m001;
+shapes = (
+{
+pos = (-40,0);
+ref = n;
+},
+{
+pos = (107,0);
+ref = tilde;
+}
+);
+width = 1182;
+}
+);
+unicode = 241;
+}

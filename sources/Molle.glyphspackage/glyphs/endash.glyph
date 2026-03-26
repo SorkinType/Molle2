@@ -1,0 +1,37 @@
+{
+glyphname = endash;
+kernLeft = KO_endash;
+kernRight = KO_endash;
+layers = (
+{
+layerId = m001;
+shapes = (
+{
+closed = 1;
+nodes = (
+(1177,593,o),
+(608,603,o),
+(480,635,c),
+(442,527,o),
+(459,433,o),
+(633,433,cs),
+(857,433,o),
+(1279,477,o),
+(1365,517,cs),
+(1407,537,o),
+(1412,606,o),
+(1398,627,c)
+);
+}
+);
+width = 1518;
+}
+);
+unicode = 8211;
+userData = {
+KernOnSpecialSpacing = {
+L = dashes;
+R = dashes;
+};
+};
+}

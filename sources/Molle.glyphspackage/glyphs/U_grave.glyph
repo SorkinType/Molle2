@@ -1,0 +1,21 @@
+{
+glyphname = Ugrave;
+kernLeft = KO_U;
+kernRight = KO_U;
+layers = (
+{
+layerId = m001;
+shapes = (
+{
+ref = U;
+},
+{
+pos = (57,0);
+ref = grave.cap;
+}
+);
+width = 1566;
+}
+);
+unicode = 217;
+}

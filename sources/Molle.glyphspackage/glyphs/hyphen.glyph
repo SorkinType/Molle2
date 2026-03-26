@@ -1,0 +1,38 @@
+{
+glyphname = hyphen;
+kernLeft = KO_hyphen;
+kernRight = KO_hyphen;
+layers = (
+{
+layerId = m001;
+shapes = (
+{
+closed = 1;
+nodes = (
+(844,621,o),
+(575,628,o),
+(401,658,c),
+(352,578,o),
+(352,421,o),
+(542,421,cs),
+(730,421,o),
+(1064,509,o),
+(1064,626,cs),
+(1064,643,o),
+(1055,654,o),
+(1032,650,cs)
+);
+}
+);
+width = 1093;
+}
+);
+unicode = 45;
+userData = {
+KernOnName = hyphen;
+KernOnSpecialSpacing = {
+L = hyphen;
+R = hyphen;
+};
+};
+}

@@ -1,0 +1,21 @@
+{
+glyphname = Jcircumflex;
+kernLeft = KO_J;
+kernRight = KO_Jcircumflex;
+layers = (
+{
+layerId = m001;
+shapes = (
+{
+ref = J;
+},
+{
+pos = (-167,0);
+ref = circumflex.cap;
+}
+);
+width = 1255;
+}
+);
+unicode = 308;
+}

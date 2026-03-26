@@ -1,0 +1,21 @@
+{
+glyphname = Itilde;
+kernLeft = KO_I;
+kernRight = KO_Iacute;
+layers = (
+{
+layerId = m001;
+shapes = (
+{
+ref = I;
+},
+{
+pos = (-30,0);
+ref = tilde.cap;
+}
+);
+width = 1222;
+}
+);
+unicode = 296;
+}

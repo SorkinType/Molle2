@@ -1,0 +1,35 @@
+{
+glyphname = bullet;
+layers = (
+{
+layerId = m001;
+shapes = (
+{
+closed = 1;
+nodes = (
+(341,411,o),
+(447,335,o),
+(527,335,cs),
+(670,335,o),
+(859,452,o),
+(859,561,cs),
+(859,659,o),
+(772,739,o),
+(655,739,cs),
+(488,739,o),
+(341,611,o),
+(341,491,cs)
+);
+}
+);
+width = 979;
+}
+);
+unicode = 8226;
+userData = {
+KernOnSpecialSpacing = {
+L = NoKerning;
+R = NoKerning;
+};
+};
+}

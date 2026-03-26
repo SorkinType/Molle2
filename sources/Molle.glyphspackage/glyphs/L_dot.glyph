@@ -1,0 +1,25 @@
+{
+glyphname = Ldot;
+kernLeft = KO_L;
+layers = (
+{
+layerId = m001;
+shapes = (
+{
+ref = L;
+},
+{
+pos = (1023,99);
+ref = periodcentered;
+}
+);
+width = 1514;
+}
+);
+unicode = 319;
+userData = {
+KernOnSpecialSpacing = {
+R = NoKerning;
+};
+};
+}
